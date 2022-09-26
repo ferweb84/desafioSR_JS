@@ -1,0 +1,12 @@
+.greeting {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: brown;
+    margin: 40px;
+}
+.cargando{
+    margin-top: 10rem;
+    text-align: center;
+}

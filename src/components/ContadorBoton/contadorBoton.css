@@ -1,0 +1,9 @@
+.Contador{
+    width: fit-content;
+    background-color: rgb(184, 79, 61);
+    margin:auto;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 5px;
+
+}
